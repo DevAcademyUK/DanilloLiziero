@@ -1,0 +1,113 @@
+/*.main-nav {
+	margin-top: 5px;
+}
+
+.main-nav a {
+	padding: 10px 15px;
+	text-align: center;
+	display: block;
+}
+.main-nav a {
+	text-transform: uppercase;
+	color: #34495e;
+	font-size: .99em;
+}
+.main-nav a:hover {
+	color: #1fa101;
+}
+
+div#navWrapper {
+	background-color:#de3232
+}
+nav button {
+	width:100%;
+	font-family:"Lato",sans-serif;
+	font-weight:300;
+	font-size:1rem;
+	margin:0;
+	padding:.5rem 0;
+	background:none;
+	color:#fff;
+	border:none;
+	border-top:solid 1px rgba(255,255,255,0.4);
+	border-bottom:solid 1px rgba(0,0,0,0.4)
+}
+nav button:hover {
+	background-color:#bf2d2d
+}*/
+main {
+	min-height:5em;
+	padding:2rem 2%;
+}
+main h1 {
+	font-family: 'Caveat', cursive;
+	font-size:2.5rem;
+	color:#2dc42b;
+	text-align:center;
+}
+main h2 {
+	font-family: 'Caveat', cursive;
+	font-size:2rem;
+	color:#2dc42b;
+}main h3 {
+	font-family: 'Caveat', cursive;
+	font-size:1.5rem;
+	text-align:center;
+	margin-bottom: 2rem;
+}
+main p {
+	line-height:130%
+}
+main p#desc {
+	text-align:justify;
+	line-height: 1.4rem;
+	font-size:1.0rem
+}
+main span {
+	font-weight:700
+}
+main figure.photo {
+	margin-top:1rem;
+	border:1px solid #aaa
+}
+main figure.photo img {
+	max-width:100%;
+	display:block
+}
+main section {
+	margin-top:2rem
+}
+main.reserve {
+	width: 150px;
+	display:block;
+	font-weight:700;
+	background-color:#de3232;
+	color:#fff;
+}
+main a.reserve {
+	display:block;
+	font-weight:700;
+	background-color:#de3232;
+	color:#fff;
+	text-decoration:none;
+	padding:1rem 0;
+	margin:1rem 0;
+	border-radius:20px;
+	text-align:center
+}
+div.keepOpen {
+	clear:both
+}
+div#wrapper {
+	max-width: 960px;
+}
+div#infos {
+	display: flex;
+}
+div#amenities {
+	flex:1;
+}
+div#costs {
+	flex:1;
+
+}

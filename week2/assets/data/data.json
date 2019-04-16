@@ -1,0 +1,33 @@
+[   {
+    "name":"Kamandula",
+    "local":"Ubud",
+    "description":"Nestled on Ubud’s hillside, overlooking Petanu River, Kamandalu Ubud offers luxurious standalone accommodation with views of the tropical greenery. It provides free Wi-Fi and shuttle services to Ubud’s town centre. Inspired by traditional Balinese villages, rooms and villas feature views of hills or rice paddies. Featuring thatched roofs, all accommodation offer spacious interiors and 5-star amenities. Most have a flat-screen TV, Balinese daybed and a private pool. Guests can take a bicycle tour through rice paddies or join Balinese dance lessons. Chaya Spa has a beauty salon, sauna and a spa bath. Andalu Shop sells Balinese crafts. Asian specialities are served at Petulu Restaurant. Panoramic valley views accompany Asian and Western meals at the poolside Aira Cafe. Kamandalu Ubud is a 10-minute drive from Ubud’s town centre. It is a 1-hour drive from Ngurah Rai International Airport.",
+    "cost":{"weekend":"$129.00", "weekday":"$99.00"},
+    "details":["Big Screen TV","Free WIFI","Jetted Tub","Blue Ray Player"],
+    "photo":["assets/img/kamandula01.jpg","assets/img/kamandula02.jpg","assets/img/kamandula03.jpg"]
+    },
+    {
+    "name":"Banyan Tree",
+    "local":"Uluwatu",
+    "description":"The luxurious 5-star Banyan Tree Ungasan features villas with private pools and free Wi-Fi in Uluwatu. A 10-minute drive from Jimbaran Bay, it offers 4 dining options and views of the Indian Ocean from an infinity pool. Featuring touches of Balinese artistry and surrounded by a garden, each villa has separate living and dining areas. Private bathroom includes a marble bathroom with sunken bath and outdoor shower. Enjoy a traditional Balinese massage at the resort’s spa or head to the fitness centre for a work out. Airport transfers, day trips and barbecue gatherings can be arranged. Laundry and concierge services are also available. Guests enjoy Asian and Indonesian buffet breakfast every morning at the Bambu Restaurant. Dine in the privacy of your villa or sample the different dining options at Banyan Tree Ungasan. Fresh seafood and cocktails are served in a chic, Moroccan ambiance at Ju-Ma-Na Restaurant overlooking Indian Ocean. Offering traditional dance performances, Bambu Restaurant serves Thai, Vietnamese and local specialities. Speaking English, French and Indonesian, staff at the 24-hour front desk can help you plan your stay.",
+    "cost":{"weekend":"$179.00", "weekday":"$159.00"},
+    "details":["Wine and Roses","Jetted Tub","King Sized Bed"],
+    "photo":["assets/img/banyan01.jpg","assets/img/banyan02.jpg","assets/img/banyan03.jpg"]
+    },
+    {
+    "name":"Oberoy",
+    "local":"Seminyak",
+    "description":"Situated in Seminyak, within a few steps of Ku De Ta and 350 yards of The Seminyak Square Shopping Mall, The Oberoi Beach Resort, Bali stretches over 15 acres of tropical gardens and offers luxurious beachside accommodation filled with traditional Balinese architecture. Its outdoor pool overlooks the ocean. Free WiFi is available in all areas. Decorated with stylish teak wood furnishings, rooms are equipped with a satellite TV, a DVD player and an iPod dock. The sunken bathtub in the en suite bathroom opens out to a private grounds.Frangipani Cafe serves a daily breakfast in an al fresco setting, while Kura Kura serves Indonesian, Asian and Continental cuisines. Themed buffet dinners and scheduled live performances are featured at The Amphitheatre. Cocktails, drinks and snacks can be enjoyed at Kayu Bar, which features views of the Indian Ocean. Overlooking a pond, Oberoi Spa has open-air massage pavilions and a variety of beauty treatments. The resort also has a tour desk and a fitness centre.",
+    "cost":{"weekend":"$299.00", "weekday":"$259.00"}, 
+    "details":["Large Fan","Sky Light","Swimming Pool","Complimentary Sun Screen"],
+    "photo":["assets/img/oberoy01.jpg","assets/img/oberoy02.jpg","assets/img/oberoy03.jpg"]
+    },
+    {
+    "name":"Jamahal",
+    "local":"Jimbaran",
+    "description":"Jamahal Private Resort & SPA - adults only is located on the southern tip of Bali, less than 450 yards from Jimbaran Beach. Boasting a private beach club, the resort offers free WiFi and free shuttle services to Jimbaran Beach. The Balinese-style villas come with cable TV, a DVD player, and a safety deposit box. Each villa is fitted with wooden furnishings and Asian décor. Some include a private entrance, outdoor pool, and garden. All guests enjoy access to a private beach club, which is a 5-minute walk from the resort. Traditional massage treatments using organic ingredients can be enjoyed at the spa. Guests can also exercise in the fully equipped gym. The resort offers variety of dishes for breakfast. Meals may be served in the Lounge or delivered to guests’ villas. Jamahal Private Resort & SPA - adults only is about 1.2 miles from Ngurah Rai International Airport. The trendy Kuta and Seminyak areas are a 20-minute drive away. This property also has one of the best-rated locations in Jimbaran! Guests are happier about it compared to other properties in the area.",
+    "cost":{"weekend":"$299.00", "weekday":"$259.00"}, 
+    "details":["Large Fan","Sky Light","Swimming Pool","Complimentary Sun Screen"],
+    "photo":["assets/img/jamahal01.jpg","assets/img/jamahal02.jpg","assets/img/jamahal03.jpg"]
+    }
+]
